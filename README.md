@@ -41,7 +41,7 @@ Depois de instalar uma biblioteca que use recursos nativos (ex: a biblioteca de 
 react-native link nome-da-biblioteca
 ```
 
-Se ocorrer um erro de módulo não encontrado, será necessário parar a execução no prompt do Metro Bundler (Ctrl+C), executar o comando abaixo e reiniciar a emulação do projeto:
+Se ocorrer um erro de módulo não encontrado, será necessário fechar a janela de execução do Metro Bundler, executar o comando abaixo e reiniciar a emulação do projeto:
 
 ```
 react-native start --reset-cache
