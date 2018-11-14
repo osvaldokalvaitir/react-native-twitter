@@ -77,13 +77,16 @@ react-native start --reset-cache
 ## Telas
 
 ### Login
+![Screenshoot Login](https://github.com/osvaldokalvaitir/twitter-mobile/blob/master/screenshots/Login.png)
 Esta é a primeira tela, para entrar o usuário terá que digitar seu nome e clicar em 'Entrar'.
 
 ### Timeline
+![Screenshoot Timeline](https://github.com/osvaldokalvaitir/twitter-mobile/blob/master/screenshots/Timeline.png)
 É a tela onde estão todos os tweets vindos da API, podendo adicionar novos tweets e dar like nos tweets existentes.
 Composto por: Listagem
 
 ### Novo Tweet
+![Screenshoot New](https://github.com/osvaldokalvaitir/twitter-mobile/blob/master/screenshots/New.png)
 É a tela onde escreve o novo tweet que será enviado.
 
 
