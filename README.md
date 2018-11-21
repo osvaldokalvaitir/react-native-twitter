@@ -1,4 +1,4 @@
-## Twitter Mobile
+# Twitter Mobile
 
 Mobile with dinamic interface using React Native and consuming the features of the Twitter Backend API.
 
