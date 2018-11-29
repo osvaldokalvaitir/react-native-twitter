@@ -88,17 +88,17 @@ react-native run-ios
 
 ### Bibliotecas do Node.js
 
-[Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
+- [Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
 
-[ESLint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint.md)
+- [ESLint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint.md)
 
-[React Native](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native.md)
+- [React Native](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native.md)
 
-[React Native Vector Icons](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-vector-icons.md)
+- [React Native Vector Icons](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-vector-icons.md)
 
-[React Navigation](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-navigation.md)
+- [React Navigation](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-navigation.md)
 
-[socket.io-client](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/socketio-client.md)
+- [socket.io-client](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/socketio-client.md)
 
 ### Erros Comuns
 
@@ -116,4 +116,4 @@ react-native start --reset-cache
 
 ### APIs
 
-[Twitter Backend](https://github.com/osvaldokalvaitir/twitter-backend)
+- [Twitter Backend](https://github.com/osvaldokalvaitir/twitter-backend)
