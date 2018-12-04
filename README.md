@@ -15,12 +15,10 @@ Este projeto foi desenvolvido em React Native consumindo os recursos da API do T
 - [Telas](#telas)
 
   - [Login](#login)
+  
   - [Timeline](#timeline)
+  
   - [Novo Tweet](#novo-tweet)
-
-- [Componentes](#componentes)
-
-  - [Listagem](#listagem)
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -53,12 +51,6 @@ Composto por: Listagem
 
 ![Screenshoot New](https://github.com/osvaldokalvaitir/twitter-mobile/blob/master/screenshots/New.png)
 É a tela onde escreve o novo tweet que será enviado.
-
-## Componentes
-
-### Listagem
-
-É a lista onde encontram-se os tweets vindos da API.
 
 ## Desenvolvimento
 
