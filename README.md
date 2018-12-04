@@ -4,7 +4,7 @@ Mobile com interface dinâmica utilizando React Native e consumindo os recursos 
 
 ## Resumo
 
-Este projeto foi desenvolvido em React para consumir os seguintes recursos da API do [Twitter Backend](https://github.com/osvaldokalvaitir/twitter-backend):
+Esta aplicação foi desenvolvida em React para consumir os seguintes recursos da API do [Twitter Backend](https://github.com/osvaldokalvaitir/twitter-backend):
 
 - Busca todos os tweets
 - Adiciona novos tweets
