@@ -1,10 +1,10 @@
 # Twitter Mobile
 
-Mobile com interface dinâmica utilizando React Native e consumindo os recursos da API do Twitter Backend.
+Mobile com interface dinâmica utilizando React Native e consumindo os recursos da API do [Twitter Backend](https://github.com/osvaldokalvaitir/twitter-backend).
 
 ## Resumo
 
-Este projeto foi desenvolvido em React Native consumindo os recursos da API do Twitter Backend, são eles:
+Este projeto foi desenvolvido em React Native consumindo os recursos da API do [Twitter Backend](https://github.com/osvaldokalvaitir/twitter-backend), são eles:
 
 - Busca todos os tweets
 - Adiciona novos tweets
