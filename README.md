@@ -28,7 +28,7 @@ Este projeto foi desenvolvido em React Native consumindo os recursos da API do T
   
   - [Execução do Projeto](#execução-do-projeto)
 
-  - [Bibliotecas do Node.js](#bibliotecas-do-nodejs)
+  - [Bibliotecas](#bibliotecas)
 
   - [Erros Comuns](#erros-comuns)
 
@@ -66,7 +66,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native.md) e siga a Execução de Projeto.
 
-### Bibliotecas do Node.js
+### Bibliotecas
 
 - [Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
 
