@@ -64,7 +64,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### Execução do Projeto
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native.md) e siga a Execução de Projeto.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md) e siga a Execução de Projeto.
 
 ### Bibliotecas
 
@@ -72,11 +72,11 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [ESLint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint.md)
 
-- [React Native](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native.md)
-
 - [React Native Vector Icons](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-vector-icons.md)
 
 - [React Navigation](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-navigation.md)
+
+- [react-native-cli](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md)
 
 - [socket.io-client](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/socketio-client.md)
 
