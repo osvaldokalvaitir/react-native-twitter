@@ -2,14 +2,6 @@
 
 Mobile com interface dinâmica utilizando React Native e consumindo os recursos da API do [Twitter Backend](https://github.com/osvaldokalvaitir/twitter-backend).
 
-## Resumo
-
-Esta aplicação foi desenvolvida em React para consumir os seguintes recursos da API do [Twitter Backend](https://github.com/osvaldokalvaitir/twitter-backend):
-
-- Busca todos os tweets
-- Adiciona novos tweets
-- Like nos tweets
-
 ## Índice
 
 - [Telas](#telas)
@@ -19,6 +11,8 @@ Esta aplicação foi desenvolvida em React para consumir os seguintes recursos d
   - [Timeline](#timeline)
   
   - [Novo Tweet](#novo-tweet)
+
+- [Rotas](#rotas)
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -51,6 +45,12 @@ Composto por: Listagem
 
 ![Screenshoot New](https://github.com/osvaldokalvaitir/twitter-mobile/blob/master/screenshots/New.png)
 É a tela onde escreve o novo tweet que será enviado.
+
+## Rotas
+
+- Busca todos os tweets
+- Adiciona novos tweets
+- Like nos tweets
 
 ## Desenvolvimento
 
