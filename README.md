@@ -32,18 +32,18 @@ Mobile com interface dinâmica utilizando React Native e consumindo os recursos 
 
 ### Login
 
-![Login](https://github.com/osvaldokalvaitir/twitter-mobile/blob/master/assets/Login.png)
+![Login](/assets/login.png)
 Esta é a primeira tela, para entrar o usuário terá que digitar seu nome e clicar em 'Entrar'.
 
 ### Timeline
 
-![Timeline](https://github.com/osvaldokalvaitir/twitter-mobile/blob/master/assets/Timeline.png)
+![Timeline](/assets/timeline.png)
 É a tela onde estão todos os tweets vindos da API, podendo adicionar novos tweets e dar like nos tweets existentes.
 Composto por: Listagem
 
 ### Novo Tweet
 
-![New](https://github.com/osvaldokalvaitir/twitter-mobile/blob/master/assets/New.png)
+![New](/assets/new.png)
 É a tela onde escreve o novo tweet que será enviado.
 
 ## Rotas
