@@ -39,7 +39,6 @@ Esta é a primeira tela, para entrar o usuário terá que digitar seu nome e cli
 
 ![Timeline](/assets/timeline.png)
 É a tela onde estão todos os tweets vindos da API, podendo adicionar novos tweets e dar like nos tweets existentes.
-Composto por: Listagem
 
 ### Novo Tweet
 
