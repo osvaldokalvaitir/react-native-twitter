@@ -24,8 +24,6 @@ Mobile com interface dinâmica utilizando React Native e consumindo os recursos 
 
   - [Bibliotecas](#bibliotecas)
 
-  - [Erros Comuns](#erros-comuns)
-
   - [APIs](#apis)
 
 ## Telas
@@ -78,20 +76,6 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [react-native-cli](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md)
 
 - [socket.io-client](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/socketio-client.md)
-
-### Erros Comuns
-
-No desenvolvimento, depois de instalar uma biblioteca que use recursos nativos (ex: a biblioteca de ícones) será necessário executar o comando abaixo e reiniciar a emulação do projeto:
-
-```
-react-native link nome-da-biblioteca
-```
-
-No desenvolvimento, se ocorrer um erro de módulo não encontrado, será necessário fechar a janela de execução do Metro Bundler, executar o comando abaixo e reiniciar a emulação do projeto:
-
-```
-react-native start --reset-cache
-```
 
 ### APIs
 
