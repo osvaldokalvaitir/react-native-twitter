@@ -7,9 +7,9 @@ Mobile com interface dinâmica utilizando React Native e consumindo os recursos 
 - [Telas](#telas)
 
   - [Login](#login)
-  
+
   - [Timeline](#timeline)
-  
+
   - [Novo Tweet](#novo-tweet)
 
 - [Rotas](#rotas)
@@ -19,7 +19,7 @@ Mobile com interface dinâmica utilizando React Native e consumindo os recursos 
   - [Configurações Iniciais](#configurações-iniciais)
 
   - [Instalação do Projeto](#instalação-do-projeto)
-  
+
   - [Execução do Projeto](#execução-do-projeto)
 
   - [Bibliotecas](#bibliotecas)
@@ -68,6 +68,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
 
 - [ESLint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint.md)
+
+- [React Native Gesture Handler](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-gesture-handler.md)
 
 - [React Native Vector Icons](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-vector-icons.md)
 
