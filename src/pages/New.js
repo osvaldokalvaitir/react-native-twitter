@@ -1,25 +1,62 @@
 import React, { Component } from 'react';
-import api from '../services/api';
 
 import Icon from 'react-native-vector-icons/MaterialIcons';
 
-import { 
-  View, 
-  SafeAreaView, 
-  Text, 
-  StyleSheet, 
-  TouchableOpacity, 
+import {
+  View,
+  SafeAreaView,
+  Text,
+  StyleSheet,
+  TouchableOpacity,
   TextInput,
-  AsyncStorage
+  AsyncStorage,
 } from 'react-native';
+
+import api from '../services/api';
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#FFF',
+  },
+
+  header: {
+    paddingTop: 10,
+    paddingHorizontal: 20,
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+  },
+
+  button: {
+    height: 32,
+    paddingHorizontal: 20,
+    borderRadius: 16,
+    backgroundColor: '#4BB0EE',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+
+  buttonText: {
+    color: '#FFF',
+    fontSize: 16,
+    fontWeight: 'bold',
+  },
+
+  input: {
+    margin: 20,
+    fontSize: 16,
+    color: '#333',
+  },
+});
 
 class New extends Component {
   static navigationOptions = {
-    header: null
+    header: null,
   };
 
   state = {
-    newTweet: ''
+    newTweet: '',
   };
 
   goBack = () => {
@@ -30,12 +67,12 @@ class New extends Component {
     const content = this.state.newTweet;
     const author = await AsyncStorage.getItem('@Twitter:username');
 
-    await api.post("tweets", { content, author });
+    await api.post('tweets', { content, author });
 
     this.goBack();
   };
 
-  handleInputChange = newTweet => {
+  handleInputChange = (newTweet) => {
     this.setState({ newTweet });
   };
 
@@ -61,46 +98,9 @@ class New extends Component {
           returnKeyType="send"
           onSubmitEditing={this.handleNewTweet}
         />
-
       </SafeAreaView>
     );
   }
 }
 
 export default New;
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: "#FFF"
-  },
-  
-  header: {
-    paddingTop: 10,
-    paddingHorizontal: 20,
-    flexDirection: "row",
-    justifyContent: "space-between",
-    alignItems: "center"
-  },
-  
-  button: {
-    height: 32,
-    paddingHorizontal: 20,
-    borderRadius: 16,
-    backgroundColor: "#4BB0EE",
-    justifyContent: "center",
-    alignItems: "center"
-  },
-  
-  buttonText: {
-    color: "#FFF",
-    fontSize: 16,
-    fontWeight: "bold"
-  },
-  
-  input: {
-    margin: 20,
-    fontSize: 16,
-    color: "#333"
-  }
-});  

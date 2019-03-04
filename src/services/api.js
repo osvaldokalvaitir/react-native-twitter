@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://192.168.1.7:3000'
+  baseURL: 'http://192.168.0.105:3000',
 });
 
 export default api;
@@ -13,3 +13,5 @@ export default api;
 // Emulador de iOS usar localhost
 
 // Testando no celular colocar o ip do servidor
+
+// Quando for alterar o ip da baseURL, precisa alterar também o ip que está na Timeline.js
