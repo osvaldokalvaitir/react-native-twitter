@@ -1,6 +1,6 @@
-﻿# Twitter Mobile
+# Twitter - Mobile
 
-Mobile com interface dinâmica utilizando React Native e consumindo os recursos da API do [Twitter Backend](https://github.com/osvaldokalvaitir/twitter-backend).
+Mobile com interface dinâmica utilizando React Native e consumindo os recursos da API do [Twitter - Backend](https://github.com/osvaldokalvaitir/twitter-backend).
 
 ## Índice
 
@@ -83,4 +83,4 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### APIs
 
-- [Twitter Backend](https://github.com/osvaldokalvaitir/twitter-backend)
+- [Twitter - Backend](https://github.com/osvaldokalvaitir/twitter-backend)
