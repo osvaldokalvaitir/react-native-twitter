@@ -1,5 +1,15 @@
 # Twitter - Mobile
 
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/twitter-mobile/blob/master/LICENSE)
+![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/twitter-mobile.svg)
+![](https://img.shields.io/github/last-commit/osvaldokalvaitir/twitter-mobile.svg?color=red)
+![](https://img.shields.io/github/languages/top/osvaldokalvaitir/twitter-mobile.svg?color=yellow)
+![](https://img.shields.io/github/languages/count/osvaldokalvaitir/twitter-mobile.svg?color=lightgrey)
+![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/twitter-mobile.svg)
+![](https://img.shields.io/github/repo-size/osvaldokalvaitir/twitter-mobile.svg?color=blueviolet)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+
 Mobile com interface dinâmica utilizando React Native e consumindo os recursos da API do [Twitter - Backend](https://github.com/osvaldokalvaitir/twitter-backend).
 
 ## Índice
