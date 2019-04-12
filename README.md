@@ -55,9 +55,11 @@ Esta é a primeira tela, para entrar o usuário terá que digitar seu nome e cli
 
 ## Rotas
 
-- Busca todos os tweets
-- Adiciona novos tweets
-- Like nos tweets
+- Tweets
+
+  - Busca todos os tweets
+  - Adiciona novos tweets
+  - Like nos tweets
 
 ## Desenvolvimento
 
