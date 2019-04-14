@@ -14,15 +14,13 @@ Mobile com interface dinâmica utilizando React Native e consumindo os recursos 
 
 ## Índice
 
-- [Telas](#telas)
+- [Capturas de Tela](#capturas-de-tela)
 
   - [Login](#login)
 
   - [Timeline](#timeline)
 
   - [Novo Tweet](#novo-tweet)
-
-- [Rotas](#rotas)
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -32,11 +30,13 @@ Mobile com interface dinâmica utilizando React Native e consumindo os recursos 
 
   - [Execução do Projeto](#execução-do-projeto)
 
+- [Utilizados no Projeto](#utilizados-no-projeto)
+
   - [Bibliotecas](#bibliotecas)
 
   - [APIs](#apis)
 
-## Telas
+## Capturas de Tela
 
 ### Login
 
@@ -53,14 +53,6 @@ Esta é a primeira tela, para entrar o usuário terá que digitar seu nome e cli
 ![New](/assets/new.png)
 É a tela onde escreve o novo tweet que será enviado.
 
-## Rotas
-
-- Tweets
-
-  - Busca todos os tweets
-  - Adiciona novos tweets
-  - Like nos tweets
-
 ## Desenvolvimento
 
 ### Configurações Iniciais
@@ -74,6 +66,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 ### Execução do Projeto
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md) e siga a Execução de Projeto.
+
+## Utilizados no Projeto
 
 ### Bibliotecas
 
@@ -95,4 +89,12 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### APIs
 
-- [Twitter - Backend](https://github.com/osvaldokalvaitir/twitter-backend)
+- **[Twitter - Backend](https://github.com/osvaldokalvaitir/twitter-backend)**
+
+  - **Rotas**
+
+    - Tweets
+
+      - Busca todos os tweets
+      - Adiciona novos tweets
+      - Like nos tweets
