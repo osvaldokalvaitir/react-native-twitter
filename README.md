@@ -41,7 +41,7 @@ Mobile com interface dinâmica utilizando React Native e consumindo os recursos 
 ### Login
 
 ![Login](/assets/login.png)
-Esta é a primeira tela, para entrar o usuário terá que digitar seu nome e clicar em 'Entrar'.
+Esta é a primeira tela, para entrar é necessário o usuário digitar seu nome.
 
 ### Timeline
 
@@ -57,15 +57,15 @@ Esta é a primeira tela, para entrar o usuário terá que digitar seu nome e cli
 
 ### Configurações Iniciais
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga as Configurações Iniciais.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configurações Iniciais`.
 
 ### Instalação do Projeto
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Instalação de Projeto.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
 
 ### Execução do Projeto
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md) e siga a Execução de Projeto.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md) e siga `Execução de Projeto`.
 
 ## Utilizados no Projeto
 
