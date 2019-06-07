@@ -1,4 +1,4 @@
-package com.twitter_mobile;
+package com.react_native_twitter;
 
 import android.app.Application;
 

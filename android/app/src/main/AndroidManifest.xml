@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.twitter_mobile">
+  package="com.react_native_twitter">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
