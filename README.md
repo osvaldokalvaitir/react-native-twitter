@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Mobile com interface dinâmica utilizando React Native e consumindo os recursos da API do [Node - Twitter](https://github.com/osvaldokalvaitir/node-twitter).
+Aplicação Twitter usando React Native, Axios, React Router, React Navigation, Socket.io e React Native Vector Icons consumindo os recursos da API do [Node - Twitter](https://github.com/osvaldokalvaitir/node-twitter).
 
 ## Índice
 
