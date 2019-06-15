@@ -95,6 +95,6 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
     - Tweets
 
-      - Busca todos os tweets
       - Adiciona novos tweets
+      - Lista todos os tweets
       - Like nos tweets
