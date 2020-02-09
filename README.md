@@ -40,17 +40,17 @@ Aplicação Twitter usando React Native, Axios, React Router, React Navigation, 
 
 ### Login
 
-![Login](/assets/login.png)
+![Login](/.github/assets/login.png)
 Esta é a primeira tela, para entrar é necessário o usuário digitar seu nome.
 
 ### Timeline
 
-![Timeline](/assets/timeline.png)
+![Timeline](/.github/assets/timeline.png)
 É a tela onde estão todos os tweets vindos da API, podendo adicionar novos tweets e dar like nos tweets existentes.
 
 ### Novo Tweet
 
-![New](/assets/new.png)
+![New](/.github/assets/new.png)
 É a tela onde escreve o novo tweet que será enviado.
 
 ## Desenvolvimento
