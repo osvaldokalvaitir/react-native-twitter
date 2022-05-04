@@ -1,100 +1,66 @@
-# React Native - Twitter
+<h1 align="center">
+    <img src="/.github/assets/logo.png"
+    width="200px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/react-native-twitter/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/react-native-twitter.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/react-native-twitter.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/react-native-twitter.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/react-native-twitter.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/react-native-twitter.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/react-native-twitter.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  React Native - Twitter
+</h3>
 
-Aplicação Twitter usando React Native, Axios, React Router, React Navigation, Socket.io e React Native Vector Icons consumindo os recursos da API do [Node.js - Twitter](https://github.com/osvaldokalvaitir/nodejs-twitter).
+<p align="center">
+  :speech_balloon: Twitter Application using React Native, Axios, React Router, React Navigation, Socket.io, React Native Vector Icons and consuming the features of the Node.js - Twitter API
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/react-native-twitter.svg?color=00A83A">
 
-- [Capturas de Tela](#capturas-de-tela)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/react-native-twitter.svg?color=00A83A">
 
-  - [Login](#login)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-  - [Timeline](#timeline)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-  - [Novo Tweet](#novo-tweet)
+<p align="center">
+  <a href="#iphone-demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-- [Desenvolvimento](#desenvolvimento)
+## :iphone: Demo
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+![Demo](/.github/assets/demo.gif)
 
-  - [Instalação do Projeto](#instalação-do-projeto)
-  
-  - [Execução do Projeto](#execução-do-projeto)
+## :wrench: Install and run
 
-- [Utilizados no Projeto](#utilizados-no-projeto)
+_ps: Before running the app, start the [Node.js - Twitter](https://github.com/osvaldokalvaitir/nodejs-twitter) backend._
 
-  - [Bibliotecas](#bibliotecas)
+Open terminal:
 
-  - [APIs](#apis)
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/react-native-twitter
 
-## Capturas de Tela
+# Entry in folder
+cd react-native-twitter
 
-### Login
+# Install deps with npm or yarn
+npm install | yarn
 
-![Login](/.github/assets/login.png)
-Esta é a primeira tela, para entrar é necessário o usuário digitar seu nome.
+# Launch the app on android with react-native or yarn
+react-native run-android | yarn android
 
-### Timeline
+# Launch the app on ios with react-native or yarn
+react-native run-ios | yarn ios
+```
 
-![Timeline](/.github/assets/timeline.png)
-É a tela onde estão todos os tweets vindos da API, podendo adicionar novos tweets e dar like nos tweets existentes.
+## :memo: License
 
-### Novo Tweet
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-![New](/.github/assets/new.png)
-É a tela onde escreve o novo tweet que será enviado.
+---
 
-## Desenvolvimento
-
-### Configuração do Ambiente
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
-
-### Instalação do Projeto
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
-
-### Execução do Projeto
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md) e siga `Execução de Projeto para Desenvolvimento`.
-
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
-
-- [babel-eslint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/babel-eslint.md)
-
-- [ESLint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint.md)
-
-- [React Native Gesture Handler](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-gesture-handler.md)
-
-- [React Native Vector Icons](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-vector-icons.md)
-
-- [React Navigation](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-navigation.md)
-
-- [react-native-cli](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md)
-
-- [socket.io-client](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/socketio-client.md)
-
-### APIs
-
-- **[Node.js - Twitter](https://github.com/osvaldokalvaitir/nodejs-twitter)**
-
-  - **Rotas**
-
-    - Tweets
-
-      - Adiciona novos tweets
-      - Busca todos os tweets
-      - Like nos tweets
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
