@@ -16,7 +16,7 @@
     "socket.io-client": "^2.2.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.4.5",
+    "@babel/core": "^7.29.6",
     "@babel/runtime": "^7.26.10",
     "babel-eslint": "^10.0.1",
     "babel-jest": "^24.8.0",
